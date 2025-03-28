@@ -24,7 +24,7 @@
 
 | **Week**  | **Topics Covered** | **Key Commands & Concepts** |
 |-----------|-------------------|------------------------------|
-| **Week 1** | 📂 **Basic File Management & Navigation** | `ls`, `cd`, `touch`, `cp`, `mv`, `mkdir`, `rmdir`, `rm -rf`, `grep`, `cat`, `cat >`, `cat >>`, `mkdir -p`, `rmdir -r`, `echo`, `sudo`, `sudo -i`, `sudo -su` |
+| **Week 1** | 📂 **Brief Linux history,  Basic File Management & Navigation** | `ls`, `cd`, `touch`, `cp`, `mv`, `mkdir`, `rmdir`, `rm -rf`, `grep`, `cat`, `cat >`, `cat >>`, `mkdir -p`, `rmdir -r`, `echo`, `sudo`, `sudo -i`, `sudo -su` |
 | **Week 2** | ⚙️ **User Management & Permissions** | `whoami`, `id`, `who`, `w`, `useradd`, `usermod`, `passwd`, `groupadd`, `chmod`, `chown`, `chgrp`, `umask` |
 | **Week 3** | 🖥️ **Process Management & System Monitoring** | `ps`, `top`, `htop`, `kill`, `nice`, `renice`, `jobs`, `fg`, `bg`, `nohup`, `uptime`, `free`, `df`, `du` |
 | **Week 4** | 🌐 **Networking & Security Basics** | `ifconfig`, `ip a`, `ping`, `netstat`, `ss`, `traceroute`, `firewalld`, `ufw`, `iptables`, `ssh`, `scp`, `rsync`, `journalctl` |
