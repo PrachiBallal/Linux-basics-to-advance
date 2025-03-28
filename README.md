@@ -5,14 +5,14 @@
 ## 📂 Repository Structure  
 
 - **`README.md`** – Main overview of this repository  
-- **`week1/`
-- **`Assignment.md`** – Contains the assignment tasks related to basic Linux commands.
-- **`Question1.sh`** – Covers creating, moving, and managing directories and files.
-- **`Question2.sh`** – Focuses on copying, deleting, and removing directories with contents.
-- **`Question3.sh`** – Demonstrates using `grep` to search for specific words in a file.
-- **`Question4.sh`** – Works with `cat` and `echo` to create, append, and display text.
-- **`Question5.sh`** – Explores file permissions and `sudo` commands.
-- **`Readme.md`** – Provides an overview of the Week 1 tasks and learning objectives.
+- **`week1/`**
+-- **`Assignment.md`** – Contains the assignment tasks related to basic Linux commands.
+-- **`Question1.sh`** – Covers creating, moving, and managing directories and files.
+-- **`Question2.sh`** – Focuses on copying, deleting, and removing directories with contents.
+-- **`Question3.sh`** – Demonstrates using `grep` to search for specific words in a file.
+-' **`Question4.sh`** – Works with `cat` and `echo` to create, append, and display text.
+-- **`Question5.sh`** – Explores file permissions and `sudo` commands.
+-- **`Readme.md`** – Provides an overview of the Week 1 tasks and learning objectives.
 
 This structure ensures an organized approach to learning and practicing Linux commands effectively.
 - **`week2/`** (Coming Soon)  
